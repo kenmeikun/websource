@@ -11,7 +11,7 @@ String password=request.getParameter("password");
 String name=request.getParameter("name");
 String gender=request.getParameter("gender");
 String email=request.getParameter("email");
-MemberDTO dto=new MemberDTO(userid,password,name,gender,email)*/
+MemberDTO dto=new MemberDTO(userid,password,name,gender,email)/*/
 request.setCharacterEncoding("utf-8");
 
 MemberDTO dto = new MemberDTO();
