@@ -7,8 +7,10 @@
 Servers/
 ch1/.gitignore
 ch2/.gitignore
-ch1/webContent/META-INF
-ch2/webContent/META-INF
+*/.gitignore
+ch1/WebContent/META-INF
+ch2/WebContent/META-INF
+*/WebContent/META-INF
 
 ### Eclipse ###
 .metadata
